@@ -1,12 +1,15 @@
 ### Hi there, I'm Vishnu Kanishk 👋
+
 I'm an enthusiastic individual with a strong passion and solid understanding of data analytics, data visualization, and machine learning. I like exploring new things enhancing and expanding my knowledge daily! I like to play with data and execute analytical experiments to create a positive impact across various domains.
+
+- 🌱 I’m currently learning Tableau and Deep Learning
 <!--
 **vishnu-kanishk/vishnu-kanishk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning Tableau and Deep Learning
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
