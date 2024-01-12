@@ -1,5 +1,5 @@
 ### Hi there, I'm Vishnu Kanishk 👋
-I am a Data and Machine Learning Enthusiast. I like exploring new things enhancing and expanding my knowledge daily! I like to play with data and execute analytical experiments to create a positive impact across various domains.
+I'm an enthusiastic individual with a strong passion and solid understanding of data analytics, data visualization, and machine learning. I like exploring new things enhancing and expanding my knowledge daily! I like to play with data and execute analytical experiments to create a positive impact across various domains.
 <!--
 **vishnu-kanishk/vishnu-kanishk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
