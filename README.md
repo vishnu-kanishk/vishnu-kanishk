@@ -7,9 +7,9 @@ Data Enthusiast
 I'm an enthusiastic individual with a strong passion and solid understanding of data analytics, data visualization, and machine learning. I love playing with data and work on machine learning.
 
 * 🌍  I'm based in India
-* 🧠  I'm learning Tableau
+* 🧠  I'm learning WebDev
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Ongoing Google Advanced Analytics Course
+* ⚡  Ongoing Data Analytics Projects
 
 ### Skills
 
